@@ -1,13 +1,13 @@
 <h1 align="center">Hi! I'm Leonardo</h1>
 <h3 align="center">I'm a full-stack developer from Italy</h3>
 
-- 🔭 I’m currently working on **building my own portfolio and developing personal projects**
+- 🔭 I’m currently working on improving my skills on **Ruby, Ruby on Rails, and developing personal projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 📫 How to reach me **leonardogenzolini@gmail.com**
+- 📫 How to reach me: **leonardogenzolini@gmail.com**
 
-- ⚡ Fun fact **I am a pianist, composer and independent music producer!**
+- ⚡ Fun fact: **I am a pianist, composer and independent music producer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
