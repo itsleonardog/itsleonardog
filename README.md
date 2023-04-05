@@ -20,5 +20,7 @@
 <details>
  <summary><h3>Leonardo's Coding Journey</h3></summary>
   I started my coding journey shortly after graduating in 2020. Following my passion for programming, I took free online courses such as The Odin Project and freeCodeCamp to build my first web applications. This passion of mine eventually led me to enroll in Le Wagon Full-Stack bootcamp, a world-renowned program that offers immersive coding experiences for aspiring developers.
+<br>
 At Le Wagon, I was able to interact with professionals in the industry and learn from experienced instructors who provided me with valuable insights and guidance. Through the bootcamp, I gained hands-on experience in building complex applications and acquired a deep understanding of the software development process.
-Since then, I have been focusing on building my portfolio and gaining more experience as a software developer. However, I also have a burning desire to start my own project and create something that I can call my own. I believe that now is the time to pursue this dream and take my skills to the next level.
+<br>
+Since then, I have been focusing on building my portfolio and gaining more experience as a software developer, improving my skills not only on the languages and tools I already know, but learning new ones as well. I believe that now is the time to pursue this dream and take my skills to the next level.
