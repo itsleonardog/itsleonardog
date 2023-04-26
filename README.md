@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Leonardo</h1>
 <h3 align="center">I'm a full-stack developer from Italy</h3>
 
-- 🔭 I’m currently working on improving my skills on **Ruby, Ruby on Rails, and developing personal projects**
+- 🔭 I’m currently working on improving my skills on **Ruby on Rails, and developing personal projects**
 
 - 🌱 I’m currently learning: **React**
 
